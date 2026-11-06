@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Number buttons -->
+    <style name="CalculatorNumberButton">
+        <item name="android:backgroundTint">#FFFFFF</item>
+        <item name="android:textColor">#202124</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Mathematical operator buttons -->
+    <style name="CalculatorOperatorButton">
+        <item name="android:backgroundTint">#DCEBFF</item>
+        <item name="android:textColor">#1565C0</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Clear and Backspace buttons -->
+    <style name="CalculatorActionButton">
+        <item name="android:backgroundTint">#FCE8E6</item>
+        <item name="android:textColor">#C62828</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Equals button -->
+    <style name="CalculatorEqualsButton">
+        <item name="android:backgroundTint">#1565C0</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+</resources>
